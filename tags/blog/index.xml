@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Blog on Kassi Garside Profile</title>
+		<link>http://localhost:1313/tags/blog/</link>
+		<description>Recent content in Blog on Kassi Garside Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 08 Oct 2026 23:29:21 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Elevator Pitch</title>
+				<link>http://localhost:1313/blogs/markdown-syntax/</link>
+				<pubDate>Thu, 08 Oct 2026 23:29:21 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/markdown-syntax/</guid>
+				<description>&lt;h2 id=&#34;hello-there&#34;&gt;Hello There!&lt;/h2&gt;&#xA;&lt;p&gt;I am a strong willed individual who has come from a very different background than where I am today. I am positive I will find every and any way to get a problem solved, forever learning in this life. Working with me no question will go unanswered, and no one left in the dark when it comes to information. I do my best to bring as much positivity to life as I possibly can while keeping a professional appearance. If you want more smiles in your life while the job still gets done, let&amp;rsquo;s work together!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ethics on Kassi Garside Profile</title>
+		<link>http://localhost:1313/tags/ethics/</link>
+		<description>Recent content in Ethics on Kassi Garside Profile</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 08 Oct 2026 22:53:58 +0530</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ethics</title>
+				<link>http://localhost:1313/blogs/emoji-support/</link>
+				<pubDate>Thu, 08 Oct 2026 22:53:58 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/emoji-support/</guid>
+				<description>&lt;h2 id=&#34;ethics-in-data-analytics-and-ai-trust-is-part-of-the-work&#34;&gt;Ethics in Data Analytics and AI: Trust Is Part of the Work&lt;/h2&gt;&#xA;&lt;p&gt;Data analysts and AI specialists shape decisions every day, from which products people see to how organizations allocate resources. That influence comes with a responsibility: build systems that are useful, fair, and worthy of people’s trust.&#xA;Ethical work starts with the data. Collect only what’s needed, protect sensitive information, and be clear about how it will be used. A dataset may look neutral, but it can carry gaps and biases from the world it came from. Those gaps can lead to models that work well for some groups and poorly for others.&#xA;Transparency matters, too. People should be able to understand when AI is involved, what a system is meant to do, and where its limits are. Analysts and specialists should question results that seem too neat, explain uncertainty, and make room for human review when decisions affect people’s lives.&#xA;Ethics isn’t a final checklist after the model is built. It belongs throughout the process: in the questions we ask, the data we choose, the measures we optimize, and the way we monitor outcomes.&#xA;The goal isn’t just accurate analysis or powerful AI. It’s technology that serves people responsibly—and earns the trust it needs to make a difference.&#xA;For reference, use NIST’s AI Risk Management Framework FAQ. It covers trustworthy AI, including fairness, privacy, transparency, explainability, and accountability.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
