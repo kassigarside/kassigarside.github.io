@@ -1,5 +1,5 @@
 ---
-title: "EBS"
+title: "Ethics"
 date: 2026-10-08T22:53:58+05:30
 draft: false
 github_link: "https://github.com/gurusabarish/hugo-profile"
