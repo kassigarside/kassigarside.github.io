@@ -590,7 +590,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/Kassi Profile Pic2.jpg"
+    image: /images/Kassi Profile Pic2.jpg
     content: |-
       Hello! Welcome to my page. I am an aspiring Data Analyst and AI Specialist currently working in the field of finance. I have a background in all departments of construction and farming. Very different from my line of work today, but with similar attributes. I have developed strong interpersonal skills along with my client relations to complete jobs with full satisfaction, and I plan to do the same in my new field. I am currently working towards my full life license with the provicnce of Ontario to better serve clients in my financial field.
 
