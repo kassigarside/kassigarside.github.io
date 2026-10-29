@@ -7,12 +7,10 @@ author: "NIST’s AI Risk Management Framework FAQ"
 tags:
   - Ethics
   
-image: /images/data ethics.jpg
+image: /images/data-ethics.jpg
 description: ""
 toc: 
 ---
-
-
 
 ## Anonymous? The Ethics Behind a Course Feedback Survey
 
