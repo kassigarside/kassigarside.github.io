@@ -12,7 +12,6 @@ description: ""
 toc: true
 mathjax: true
 ---
-
 # When a Face Becomes a Suspect: The Ethics of AI in Policing
 ## A case study in facial recognition, human judgment, and the limits of voluntary ethics
 
