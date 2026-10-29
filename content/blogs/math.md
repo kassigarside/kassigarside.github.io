@@ -2,7 +2,7 @@
 title: "When a Face Becomes a Suspect"
 date: 2022-12-09T19:53:33+05:30
 draft: false
-author: "CIPD’s Ethical practice and the role of people professionals"
+author: "Kassandra Garside"
 tags:
   - Markdown syntax
   - Mathjax
