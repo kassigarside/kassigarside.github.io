@@ -1,6 +1,6 @@
 ---
 title: "When a Face Becomes a Suspect"
-date: 2022-12-09T19:53:33+05:30
+date: 2026-11-02T19:53:33+05:30
 draft: false
 author: "Kassandra Garside"
 tags:

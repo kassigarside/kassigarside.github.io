@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 23:29:21 +0530</lastBuildDate>
+			<lastBuildDate>Mon, 02 Nov 2026 19:53:33 +0530</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>When a Face Becomes a Suspect</title>
+				<link>http://localhost:1313/blogs/math/</link>
+				<pubDate>Mon, 02 Nov 2026 19:53:33 +0530</pubDate>
+				<guid>http://localhost:1313/blogs/math/</guid>
+				<description>&lt;h1 id=&#34;when-a-face-becomes-a-suspect-the-ethics-of-ai-in-policing&#34;&gt;When a Face Becomes a Suspect: The Ethics of AI in Policing&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-case-study-in-facial-recognition-human-judgment-and-the-limits-of-voluntary-ethics&#34;&gt;A case study in facial recognition, human judgment, and the limits of voluntary ethics&lt;/h2&gt;&#xA;&lt;h2 id=&#34;a-match-is-not-a-fact&#34;&gt;A match is not a fact&lt;/h2&gt;&#xA;&lt;p&gt;In January 2020, Detroit police arrested Robert Williams in front of his home, his wife, and his young daughters. Investigators had used facial recognition to compare a low-quality image from a Shinola store theft with photographs in a database. The system returned Williams as a possible match. He was not the person in the footage. The match became the starting point for a photo lineup, and the investigation treated that lead as if it were confirmation. Williams spent about 30 hours in custody before he was released. The American Civil Liberties Union (ACLU) later described the arrest as part of wider failures in Detroit’s use of facial recognition and police training. The ACLU’s 2021 complaint states that Williams spent about 30 hours in custody before he was released.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Elevator Pitch</title>
 				<link>http://localhost:1313/blogs/markdown-syntax/</link>
@@ -26,13 +33,6 @@
 				<pubDate>Thu, 08 Oct 2026 22:53:58 +0530</pubDate>
 				<guid>http://localhost:1313/blogs/ebs/</guid>
 				<description>&lt;h2 id=&#34;anonymous-the-ethics-behind-a-course-feedback-survey&#34;&gt;Anonymous? The Ethics Behind a Course Feedback Survey&lt;/h2&gt;&#xA;&lt;p&gt;A short course survey can look harmless: ten questions, a temporary web link, and a promise that responses will remain anonymous. But the details matter. Participants must log in with their organizational username and password, and the survey asks which course they completed. Those design choices may make it possible to connect a response to a person—even if the survey does not ask for a name.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>When a Face Becomes a Suspect</title>
-				<link>http://localhost:1313/blogs/math/</link>
-				<pubDate>Fri, 09 Dec 2022 19:53:33 +0530</pubDate>
-				<guid>http://localhost:1313/blogs/math/</guid>
-				<description>&lt;h1 id=&#34;when-a-face-becomes-a-suspect-the-ethics-of-ai-in-policing&#34;&gt;When a Face Becomes a Suspect: The Ethics of AI in Policing&lt;/h1&gt;&#xA;&lt;h2 id=&#34;a-case-study-in-facial-recognition-human-judgment-and-the-limits-of-voluntary-ethics&#34;&gt;A case study in facial recognition, human judgment, and the limits of voluntary ethics&lt;/h2&gt;&#xA;&lt;h2 id=&#34;a-match-is-not-a-fact&#34;&gt;A match is not a fact&lt;/h2&gt;&#xA;&lt;p&gt;In January 2020, Detroit police arrested Robert Williams in front of his home, his wife, and his young daughters. Investigators had used facial recognition to compare a low-quality image from a Shinola store theft with photographs in a database. The system returned Williams as a possible match. He was not the person in the footage. The match became the starting point for a photo lineup, and the investigation treated that lead as if it were confirmation. Williams spent about 30 hours in custody before he was released. The American Civil Liberties Union (ACLU) later described the arrest as part of wider failures in Detroit’s use of facial recognition and police training. The ACLU’s 2021 complaint states that Williams spent about 30 hours in custody before he was released. [1][4]&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Placeholder Text</title>
